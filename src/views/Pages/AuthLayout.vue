@@ -18,7 +18,7 @@
          <b-row>
            <b-col cols="6" class="collapse-brand">
              <router-link to="/">
-               <img src="img/brand/green.png">
+               <h1>Lub2Code</h1>
              </router-link>
            </b-col>
            <b-col cols="6" class="collapse-close">

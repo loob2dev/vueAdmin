@@ -129,7 +129,7 @@
           title: 'Hello World!'
         });
 
-        let contentString = '<div class="info-window-content"><h2>Argon Dashboard PRO</h2>' +
+        let contentString = '<div class="info-window-content"><h2>lub2code Dashboard PRO</h2>' +
           '<p>A beautiful premium dashboard for Bootstrap 4.</p></div>';
 
         let infowindow = new google.maps.InfoWindow({

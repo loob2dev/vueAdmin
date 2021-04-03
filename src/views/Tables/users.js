@@ -4,7 +4,7 @@ export default [
     name: 'John Michael',
     image: 'img/theme/team-1.jpg',
     createdAt: '10/09/2018',
-    product: 'Argon Dashboard PRO',
+    product: 'lub2code Dashboard PRO',
     active: true
   },
   {
@@ -12,7 +12,7 @@ export default [
     name: 'Alexandra Smith',
     image: 'img/theme/team-2.jpg',
     createdAt: '08/09/2018',
-    product: 'Argon Design System',
+    product: 'lub2code Design System',
     active: false
   },
   {
@@ -28,7 +28,7 @@ export default [
     name: 'John Michael',
     image: 'img/theme/team-1.jpg',
     createdAt: '10/09/2018',
-    product: 'Argon Dashboard PRO',
+    product: 'lub2code Dashboard PRO',
     active: true
   },
   {
@@ -36,7 +36,7 @@ export default [
     name: 'Alexandra Smith',
     image: 'img/theme/team-2.jpg',
     createdAt: '30/09/2018',
-    product: 'Vue Argon Dashboard',
+    product: 'Vue lub2code Dashboard',
     active: true
   },
 ];

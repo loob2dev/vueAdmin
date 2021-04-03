@@ -67,16 +67,16 @@
 
         <b-nav class="navbar-nav mb-md-3">
           <b-nav-item
-               href="https://www.creative-tim.com/learning-lab/bootstrap-vue/quick-start/argon-dashboard"
+               href="#"
                >
               <i class="ni ni-spaceship"></i>
               <b-nav-text class="p-0">Getting started</b-nav-text>
           </b-nav-item>
-          <b-nav-item href="https://www.creative-tim.com/learning-lab/bootstrap-vue/colors/argon-dashboard">
+          <b-nav-item href="#">
               <i class="ni ni-palette"></i>
               <b-nav-text class="p-0">Foundation</b-nav-text>
           </b-nav-item>
-          <b-nav-item href="https://www.creative-tim.com/learning-lab/bootstrap-vue/avatar/argon-dashboard">
+          <b-nav-item href="#">
               <i class="ni ni-ui-04"></i>
               <b-nav-text class="p-0">Components</b-nav-text>
           </b-nav-item>
